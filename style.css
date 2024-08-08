@@ -1,6 +1,8 @@
+body{
+    background-color: #4D878F;
+}
 main{
     margin: 30px;
-    background-color: #4D878F;
 }
 h1{
     text-align: center;
